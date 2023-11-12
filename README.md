@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, there
 
-<!--
-**NPgreatest/NPgreatest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src='./images/me.gif' alt='Hi' width="160"/>
+
+
+
+
+- 🔭 I’m currently working on Web-Server Development.
+- 🌱 I’m currently self-learning `Golang`.
+- 🤔 I’m looking forward to grad school.
+- ⚡ My favorite movie "LALA LAND".
+- 📫 How to reach me: np123greatest@gmaila.com
+
+  ![state](https://github-readme-stats.vercel.app/api?username=NPgreatest&show_icons=true&icon_color=BA55D3&text_color=718097&bg_color=ffffff)
