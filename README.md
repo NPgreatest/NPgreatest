@@ -3,11 +3,17 @@
 <img src='./images/me.gif' alt='Hi' width="160"/>
 
 Go for First-Love(First working language, my favourite)
+
 Python for Algorithm(FANNG, please give me an offer...)
+
 Java for Work(in Alibaba)
+
 C++ for Legacy(A dumb(me) use Qt/C++ build wheel and make game in undergrate...)
+
 JS for Fun(Nodejs look cool)
+
 Visual Basic6.0 for beginning(Language that I encountered in elementery school)
+
 
 - ⚡ My favorite movie "LALA LAND".
 - 🔭 I’m currently working on Web-Server Development.
