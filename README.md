@@ -4,11 +4,10 @@
 
 
 
-
-- 🔭 I’m currently working on Web-Server Development.
-- 🌱 I’m currently self-learning `Golang`.
-- 🤔 I'm currently applying to grad school.
 - ⚡ My favorite movie "LALA LAND".
+- 🔭 I’m currently working on Web-Server Development.
+- 🌱 I’m currently self-learning `Golang,Java,Python`.
+- 🎹 I'm currently try to {play piano;} catch(TimeOutError err){give up;}.
 - 📫 How to reach me: np123greatest@gmail.com
 
 
