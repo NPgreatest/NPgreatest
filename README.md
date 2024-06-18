@@ -25,7 +25,7 @@ Node.js looks cool!
 
 ### Visual Basic 6.0 for Beginning 👶
 ![VB](https://img.shields.io/badge/-Visual%20Basic%206.0-5C2D91?style=flat-square&logo=visual-basic&logoColor=white)
-Language I encountered in elementary school
+Language I use in elementary school...
 
 <img src='./images/me.gif' alt='Hi' width="160"/>
 
