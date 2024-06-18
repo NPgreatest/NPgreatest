@@ -5,7 +5,7 @@
 
 ### Go for First-Love ❤️
 ![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-First working language, my favorite!
+First working language in Bilibili, my favorite!
 
 ### Python for Algorithm 🤖
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
