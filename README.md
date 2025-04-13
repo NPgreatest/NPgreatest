@@ -2,25 +2,6 @@
 
 <img src='./images/me.gif' alt='Hi' width="160"/>
 
-## 💼 Current Role
-
-**Software Engineering Intern @ Meta 🐘**  
-*May 2025 – Aug 2025*
-
-- Working on **internal developer tooling** for **Performance, Reliability, Efficiency, and Quality (PR&Q) metrics**.
-
----
-
-## 🚀 Previous Experience
-
-**Alibaba | Backend Intern**  
-🔧 Java, SpringBoot, Redis, MySQL  
-- Built a promotion signup system with DDD and optimized task workflows to improve efficiency by 99.78%.
-
-**Bilibili | Golang Backend Intern**  
-🐳 Golang, gRPC, Redis, MySQL  
-- Created high-traffic APIs and distributed services with LRU caching, custom URL routing, and 6M+ concurrency support.
-
 ---
 
 ## 🧠 Interests
@@ -28,12 +9,6 @@
 - 🧠 **AI Automation / Agents / RAG systems**
 - ⚙️ **Infrastructure & Developer Tooling**
 - 🌐 **Scalable Web Systems / Full-Stack Architecture**
-
----
-
-## 📫 Let's Connect
-
-If you're building in the AI/infra/developer tooling space — I'm always open to connect and collaborate!
 
 ---
 
