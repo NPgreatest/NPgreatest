@@ -51,7 +51,7 @@ If you're building in the AI/infra/developer tooling space — I'm always open t
 ## My Programming Journey 🚀
 
 ### 🐘 PHP(Hack) for work 🐘
-![PHP]([https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white](https://shields.io/badge/-PHP-3776AB?style=flat&logo=php))
+![PHP](https://shields.io/badge/-PHP-3776AB?style=flat&logo=php)
 Hahahahahaha ...
 
 ### Go for First-Love ❤️
