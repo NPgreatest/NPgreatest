@@ -8,16 +8,6 @@
 *May 2025 – Aug 2025*
 
 - Working on **internal developer tooling** for **Performance, Reliability, Efficiency, and Quality (PR&Q) metrics**.
-- Leading a high-priority project to enhance the **batch onboarding flow of metric ingestion**, including:
-  - ⚙️ Building **async validation strategies** to reduce compute costs
-  - 📊 Designing **front-end interfaces** to visualize materialization and ingestion status
-  - 🧠 Exploring performance regression insights with **Health Compass** and **Incident Tracker**
-- Tech stack: `Hack (Meta PHP variant)` + `React + Relay` + `GraphQL` + `Thrift`
-
-🧩 Focused on developing **transferable engineering skills** in:
-- Distributed systems and async task queues
-- Frontend/backend orchestration in large-scale infra
-- Developer experience (DevEx) tooling and performance observability
 
 ---
 
